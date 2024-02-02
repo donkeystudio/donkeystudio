@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @donkeystudio
-- 🌱 I’m currently learning Python and Docker to integrate some DIY IoT stuffs into my smart home!
+- 🌱 Here you may find some out-of-the-box ideas. Cheers!
